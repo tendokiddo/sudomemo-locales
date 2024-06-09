@@ -11,10 +11,10 @@ msgid "ALSO_KNOWN_AS"
 msgstr "Aussi appelé"
 
 msgid "BAD_METADATA"
-msgstr "Flipnote with bad metadata"
+msgstr "Flipnote avec de mauvaises métadonnées"
 
 msgid "BAD_METADATA_WARNING"
-msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+msgstr "Avertissement : les métadonnées Flipnote sont corrompues.  Vous pouvez toujours le regarder, mais nous vous déconseillons fortement de l'ouvrir dans Flipnote Studio 3D."
 
 msgid "BLUE_STARS"
 msgstr "Étoiles bleues"
@@ -84,7 +84,7 @@ msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
 msgstr "Hébergée par %sSudomemo%s, un service de partage de Flipnotes géré par des fans pour Flipnote Studio sur Nintendo DSi et 3DS"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
-msgstr "Flipnote Studio : © Nintendo. Flipnote Hatena : © Hatena Co., Ltd."
+msgstr "Flipnote Studio : ©Nintendo.  Flipnote Hatena : © Hatena Co., Ltd."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
 msgstr "L'Archive Flipnote n'est pas affiliée ou approuvée par Nintendo ou Hatena."
@@ -235,7 +235,7 @@ msgid "SONG_GENRE"
 msgstr "Genre"
 
 msgid "SONG_LABEL"
-msgstr "Label"
+msgstr "Cataloguer"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"
@@ -285,4 +285,4 @@ msgid "YELLOW_STARS"
 msgstr "Étoiles jaunes"
 
 msgid "YOUTUBE_MUSIC"
-msgstr "YouTube Music"
+msgstr "Musique YouTube"
